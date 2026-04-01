@@ -1,15 +1,20 @@
-# Git & GitHub Final Project
+# Simple Interest Calculator
 
-This repository is created as part of the Coursera Final Project for Git and GitHub.
+This project is a Bash-based simple interest calculator.
 
-## Project Description
-This project demonstrates the use of GitHub UI and Git CLI tools including:
-- Repository creation
-- License addition
-- Code of Conduct
-- Contribution guidelines
-- Bash scripting
-- Branching and merging
+## Description
+The script calculates simple interest based on user input:
+- Principal amount
+- Rate of interest
+- Time period
 
-## Author
-Urvesh Somwanshi
+## Formula Used
+Simple Interest = (Principal × Rate × Time) / 100
+
+## Features
+- Takes user input
+- Performs calculation using Bash
+- Displays result with precision
+
+## File Included
+- simple-interest.sh → Bash script for calculation
